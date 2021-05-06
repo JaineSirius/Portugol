@@ -1,2 +1,2 @@
 # Portugol
-Progamas basicos em portugol.
+Programas em portugol.
